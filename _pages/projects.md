@@ -36,7 +36,7 @@ Contribution to the blockchain consensus protocol [CBC Casper](https://github.co
   * [Simulator](https://github.com/nrryuya/cbc-validator-rotation)
 
 
-## Ethereum Vyper
+## Vyper
 Contribution to the Ethereum smart contract language [Vyper](https://vyper.readthedocs.io/en/latest/).
 * Development of [Vyper](https://github.com/ethereum/vyper)
   * 6th contributor (as of Feb 15, 2019)
