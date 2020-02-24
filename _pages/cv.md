@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![](/images/ryuya-cv.jpg)
+
 Work experience
 ======
 * Aug 2018 - Present: Research and Development
@@ -24,6 +26,15 @@ Education
 ======
 * Faculty of Engineering, The University of Tokyo, 2015 - Present (Suspending)
 
+Skills
+======
+* Language: Japanese, English
+* Software development (Golang, Python)
+* Distributed systems (state machine replication, sharding)
+* Smart contract security (Solidity, Vyper)
+* Formal verification (Isabelle/HOL, K framework)
+* Data analysis, Machine learning
+
 Grant
 ======
 * Ethereum Foundation, 2019
@@ -34,9 +45,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Projects
+<!-- Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -44,4 +55,4 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
