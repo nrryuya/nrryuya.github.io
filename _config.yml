@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryuya Nakamura"
 title_separator          : "-"
 name                     : &name "Ryuya Nakamura"
-description              : &description "Lead reseacher at LayerX Inc."
+description              : &description "Executive Officer at LayerX Inc."
 url                      : https://nrryuya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nrryuya/nrryuya.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ryuya Nakamura"
   avatar           : "ryuya-profile.png"
-  bio              : "Lead researcher at LayerX Inc. Contact: Twitter DM (@nrryuya) or nrryuya at gmail.com"
+  bio              : "Executive Officer at LayerX Inc. Contact: Twitter DM (@nrryuya) or nrryuya at gmail.com"
   location         : "Tokyo/Japan"
   employer         :
   pubmed           :
